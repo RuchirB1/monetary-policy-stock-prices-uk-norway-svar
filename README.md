@@ -70,7 +70,7 @@ The limited contribution of monetary-policy shocks to overall equity volatility 
 
 ## Repository contents
 
-- `Monetary_Policy_and_Stock_Prices_UK_Norway_Thesis.pdf`  
+- `Masters Thesis.pdf`  
   Full MSc Economics dissertation containing the literature review, theoretical framework, data construction, SVAR identification, impulse-response analysis, variance decompositions, robustness tests, policy implications and appendices.
 
 
